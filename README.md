@@ -1,2 +1,2 @@
 # IPL-Analysis
-Use basic knowledge of numpy,pandas,matplotlib and seaborn
+Use basic knowledge of numpy,pandas,matplotlib,seaborn and plotly
